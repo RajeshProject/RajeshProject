@@ -7,3 +7,9 @@
 1. Fast
 2. Productive
 3. Flexible
+
+```dart
+int a=1;
+int b=2;
+int sum=a+b;
+```
