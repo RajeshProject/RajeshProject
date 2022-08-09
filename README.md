@@ -1,15 +1,8 @@
-# Angela Yu
+# Notes
 
-## Introduction
-**Flutter** Flutter is an open source framework by google for building beautiful, native compiled, multi platform application from single codebase application from single codebase
+[Get all api](https://publicapis.dev/search?q=song)
 
-### Advantage:
-1. Fast
-2. Productive
-3. Flexible
+[Mobile model 1](https://dribbble.com/shots/18276595-Music-Player-Mobile-App)
 
-```dart
-int a=1;
-int b=2;
-int sum=a+b;
-```
+[Mobile model 1](https://dribbble.com/shots/17219469-Musikin-Aja-Music-Player-App)
+
